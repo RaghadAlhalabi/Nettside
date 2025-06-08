@@ -1,0 +1,50 @@
+.w-30{
+	width: 30%!important;
+}
+.w-15{
+border-radius:50% !important;
+height:  200px;
+width: 200px;
+ 
+	
+}
+.w-70{
+	width: 70%!important;
+}
+
+.center{
+	margin-left:auto;
+	margin-right:auto;
+}
+.col-sm-25{
+	flex: 0 0 auto;
+	width:25%
+}
+
+
+.bg-1{
+	background: #ead9c9;
+}
+.bg-2{
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+.modal-max-width{
+	max-width: 700px !important;
+}
+
+.t-font{
+	font-family: Sofia, sans-serif;
+}
+.img-card-fluid{
+	width: 100%;
+	height:190px;
+}
+.img-thumbnail-img{
+	padding:.25rem;
+	background-color: #e1d4d3c2;
+	border: 1px solid #e1d4d3c2;
+	max-width:100%;
+	height:auto;
+}
